@@ -1,14 +1,13 @@
-# GBICi5-Scratch-1-LostinSpace
+# Lost in Space
 
-![GBICi5-Scratch-1-LostinSpace](banner.png)
+![Lost in Space](/en/images/banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/GBICi5-Scratch-1-LostinSpace](https://projects.raspberrypi.org/en/projects/GBICi5-Scratch-1-LostinSpace)
+Learn how to program your own space animation
 
-## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/GBICi5-Scratch-1-LostinSpace/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/GBICi5-Scratch-1-LostinSpace/tree/master/en/solutions).
+Find the project online at [projects.raspberrypi.org/en/projects/lost-in-space](https://projects.raspberrypi.org/en/projects/lost-in-space)
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Licence
- See [LICENCE.md](LICENCE.md)
+ See [LICENSE.md](LICENSE.md)
