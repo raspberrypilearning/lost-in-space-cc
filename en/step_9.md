@@ -18,3 +18,5 @@ You can find the link to Ghostbusters on the module pathway. Remember to complet
 ![showcase](images/ghostbusters-static.png)
 
 --- /print-only ---
+
+![Progress bar](images/s1-2.png)
