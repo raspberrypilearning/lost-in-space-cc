@@ -20,3 +20,8 @@ You can find the link to Ghostbusters on the module pathway. Remember to complet
 --- /print-only ---
 
 ![Progress bar](images/s1-2.png)
+
+Click on the 'Click me' button to try the next project:
+
+<a href="https://codeclub.org/en/scratch1">
+<img src="images/Clickme.png">
