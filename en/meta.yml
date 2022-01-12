@@ -10,6 +10,7 @@ version: 4.1.3
 last_tested: 2018-09-26
 steps:
 - title: Introduction
+  completion: engaged
 - title: Animating a spaceship
 - title: 'Challenge: improve your animation'
   challenge: true
@@ -18,5 +19,6 @@ steps:
 - title: Bouncing asteroid
 - title: Shining star
 - title: 'Challenge: make your own animation'
-  challenge: true 
+  challenge: true
+  completion: internal
 - title: What have you learned?
